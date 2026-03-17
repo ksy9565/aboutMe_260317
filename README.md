@@ -4,3 +4,4 @@
 
 - id: ksy9565
 - age: 28
+- gender: male
